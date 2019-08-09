@@ -1,0 +1,20 @@
+{
+  "name": "Jarosoft/factory",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Jaros",
+      "email": "michael.jaros@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Jarosoft\\Factory\\": "src/"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "8.3.3"
+  }
+}

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f56cb12b-e239-4e54-907a-474a06aa85a7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/../factory/composer.json</pharConfigPath>
+    <execution>
+      <executable path="C:\ProgramData\ComposerSetup\bin\composer.bat" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3">
+    <include_path>
+      <path value="$PROJECT_DIR$/../factory/vendor/composer" />
+      <path value="$PROJECT_DIR$/../factory/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/../factory/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/../factory/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/../factory/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/../factory/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/../factory/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/../factory/vendor/symfony/polyfill-ctype" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1P6xr6SXMSNSCtmpsFVWmSQqW8a" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="dumpAutoload C:/Users/Michael Jaros/Desktop/git.jarosoft.at/factory/composer.json" value="--no-interaction --ansi --verbose" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../jaromic.github.com" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="php.test.frameworks.configurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michael Jaros\Desktop\git.jarosoft.at\factory\src\Exception" />
+      <recent name="C:\Users\Michael Jaros\Desktop\git.jarosoft.at\factory\src\Model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Michael Jaros\Desktop\jaromic.github.com\factory2" />
+      <recent name="C:\Users\Michael Jaros\Desktop\jaromic.github.com" />
+      <recent name="C:\Users\Michael Jaros\Desktop\git.jarosoft.at\factory\src\Controller" />
+      <recent name="C:\Users\Michael Jaros\Desktop\git.jarosoft.at\factory\src\Model" />
+      <recent name="C:\Users\Michael Jaros\Desktop\git.jarosoft.at\factory\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.SimpleProcess">
+    <configuration name="ModelTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner directory="$PROJECT_DIR$/../factory/src/Model/Test" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RecipeTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="RecipeTest" file="$PROJECT_DIR$/../factory/src/Model/Test/RecipeTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SimpleProcess" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/../factory/src/Controller/SimpleProcess.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.SimpleProcess" />
+      <item itemvalue="PHPUnit.ModelTest" />
+      <item itemvalue="PHPUnit.RecipeTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.RecipeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f56cb12b-e239-4e54-907a-474a06aa85a7" name="Default Changelist" comment="" />
+      <created>1565208542557</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565208542557</updated>
+      <workItem from="1565208543747" duration="19950000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
