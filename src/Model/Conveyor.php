@@ -8,7 +8,7 @@ use Jarosoft\Factory\Exception\CannotPutException;
 class Conveyor implements Processor {
 
     private $belt;
-    private $capacity = 10;
+    private $capacity;
     private $ready;
 
     /**
@@ -37,6 +37,7 @@ class Conveyor implements Processor {
         $this->destination = $destination;
         $this->speed = $speed;
         $this->belt=[];
+        $this->capacity = 10;
         for($i=0;$i<$this->capacity;++$i){
             $this->belt[$i]=null;
         }
