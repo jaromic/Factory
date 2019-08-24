@@ -99,11 +99,11 @@ class Conveyor implements Processor {
         return $output;
     }
 
-    public function canProcess(): bool {
+    public function canDo(): bool {
         return $this->belt[$this->capacity-1] != null;
     }
 
-    public function process() {
+    public function doIt() {
         try {
             if($this->belt[$this->capacity - 1]) {
                 $this->destination->put($this->belt[$this->capacity - 1]);

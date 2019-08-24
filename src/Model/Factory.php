@@ -24,19 +24,19 @@ class Factory implements Processor {
         return $this;
     }
 
-    public function canProcess(): bool {
+    public function canDo(): bool {
         return true;
     }
 
-    public function process() {
+    public function doIt() {
         foreach($this->elements as $element) {
-            $element->process();
+            $element->doIt();
         }
     }
 
     public function loop(int $iterations) {
         for($i=0;$i<$iterations;++$i) {
-            $this->process();
+            $this->doIt();
             echo "$i: ". $this;
         }
     }

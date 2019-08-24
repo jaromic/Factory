@@ -40,7 +40,7 @@ class Machine implements Input, Output, Processor {
         }
     }
 
-    public function canProcess(): bool {
+    public function canDo(): bool {
         $canProcess = true;
 
         /* do we have all inputs? */
@@ -64,8 +64,8 @@ class Machine implements Input, Output, Processor {
         return $canProcess;
     }
 
-    public function process() {
-        if(!$this->canProcess()) {
+    public function doIt() {
+        if(!$this->canDo()) {
             return;
         }
 
